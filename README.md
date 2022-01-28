@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/Arthur-SD15">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-SD15&show_icons=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-SD15&layout=compact&theme=algolia"/>
 </div>
 
 ##
